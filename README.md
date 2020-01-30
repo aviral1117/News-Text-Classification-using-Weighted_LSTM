@@ -1,6 +1,6 @@
 # News_Classification_WRNN
 
-Implementation of the paper: Link
+Implementation of the paper: [Link](https://arxiv.org/abs/1909.13077)
 
 Please download the pickle files of the processed data using this link: [Data and Word2Vec Model](https://drive.google.com/drive/folders/1esbt0Z3nCl-Tu6Cp9JMIY-6-eH85v4PR?usp=sharing)
 
