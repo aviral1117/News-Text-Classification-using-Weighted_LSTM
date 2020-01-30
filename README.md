@@ -1,4 +1,4 @@
-# News_Classification_WRNN
+# News_text Classification using Recurrent Neural Networks
 
 Implementation of the paper: [Link](https://arxiv.org/abs/1909.13077)
 
