@@ -6,6 +6,6 @@ Please download the pickle files(as used by the code) of the processed data usin
 
 The implementation uses the architecture as given in the above paper but a few modifications has been made to the hyperparameters and implementation specifications to improve on the same. 
 
-Original Dataset Link: [Link](http://qwone.com/~jason/20Newsgroups/)
+Original Dataset: [Link](http://qwone.com/~jason/20Newsgroups/)
 
 Predictions.xlsx shows the result for the first 100 predictions
