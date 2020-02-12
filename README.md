@@ -16,4 +16,4 @@ Additionally a modified architecture based on BiLSTM and the ideology of W-RNN i
 
 Original Dataset: [Link](http://qwone.com/~jason/20Newsgroups/)
 
-Predictions.xlsx shows the result for the first 100 predictions based on the W-RNN model.
+Predictions.xlsx shows the result for the first 100 predictions based on the LSTM model.
