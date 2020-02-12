@@ -12,6 +12,8 @@ The above link contains 5 files as follows:
 
 The implementation uses the architecture as given in the above paper but a few modifications has been made to the hyperparameters and implementation specifications to improve on the same.
 
+Additionally a modified architecture based on BiLSTM and the ideology of W-RNN is proposed and included in the implementation above.
+
 Original Dataset: [Link](http://qwone.com/~jason/20Newsgroups/)
 
-Predictions.xlsx shows the result for the first 100 predictions.
+Predictions.xlsx shows the result for the first 100 predictions based on the W-RNN model.
