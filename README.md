@@ -1,6 +1,7 @@
 # News_text Classification using Recurrent Neural Networks
 
 Implementation of the paper: [Link](https://arxiv.org/abs/1909.13077)
+Please refer the presentation slide above for details.
 
 Please download the pickle files(as used by the code) of the processed data using this link: [Data and Word2Vec Model](https://drive.google.com/drive/folders/1esbt0Z3nCl-Tu6Cp9JMIY-6-eH85v4PR?usp=sharing). 
 The above link contains 5 files as follows:
